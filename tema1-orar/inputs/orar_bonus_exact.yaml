@@ -51,7 +51,6 @@ Profesori:
     - '!18-20'
     - 8-12
     - 14-18
-    - '!Pauza > 2'
     Materii:
     - PM
     - PCom
@@ -81,7 +80,6 @@ Profesori:
     - 8-10
     - 12-14
     - 18-20
-    - '!Pauza > 4'
     Materii:
     - MS
     - SOC
@@ -95,7 +93,7 @@ Profesori:
     - '!12-16'
     - 8-12
     - 16-20
-    - '!Pauza > 4'
+    - '!Pauza > 6'
     Materii:
     - PCom
     - MS
@@ -109,7 +107,7 @@ Profesori:
     - Vineri
     - '!8-10'
     - 10-20
-    - '!Pauza > 0'
+    - '!Pauza > 4'
     Materii:
     - DS
     - PCom
@@ -135,7 +133,7 @@ Profesori:
     - '!16-18'
     - 14-16
     - 18-20
-    - '!Pauza > 2'
+    - '!Pauza > 0'
     Materii:
     - SOC
   Madalina Dumitrescu:
@@ -198,7 +196,7 @@ Profesori:
     - '!Vineri'
     - '!8-10'
     - 10-20
-    - '!Pauza > 0'
+    - '!Pauza > 2'
     Materii:
     - MS
     - PCom
@@ -222,7 +220,7 @@ Profesori:
     - '!Vineri'
     - '!8-10'
     - 10-20
-    - '!Pauza > 0'
+    - '!Pauza > 2'
     Materii:
     - DS
     - PCom
@@ -280,7 +278,7 @@ Profesori:
     - '!18-20'
     - 8-10
     - 14-18
-    - '!Pauza > 4'
+    - '!Pauza > 6'
     Materii:
     - PM
   Ruxandra Scarlatescu:
@@ -294,7 +292,7 @@ Profesori:
     - '!18-20'
     - 8-10
     - 12-18
-    - '!Pauza > 2'
+    - '!Pauza > 4'
     Materii:
     - DS
     - SOC
@@ -321,7 +319,7 @@ Profesori:
     - '!18-20'
     - 8-10
     - 12-18
-    - '!Pauza > 2'
+    - '!Pauza > 4'
     Materii:
     - MS
     - PCom
