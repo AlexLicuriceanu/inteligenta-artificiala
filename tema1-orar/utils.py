@@ -162,7 +162,7 @@ def pretty_print_timetable_aux_intervale(timetable : {(int, int) : {str : {str :
 
         for class_idx in range(no_classes):
             if class_idx != 0:
-                s_interval += '|'
+                s_interval += f'|{30 * " "}'
 
             for day in timetable[interval]:
                 classes = timetable[interval][day]
